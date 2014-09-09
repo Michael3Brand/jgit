@@ -3,8 +3,8 @@ public class Person
 {
 
 	
-	private String Vorname;
-	private String Nachname;
+	private String vorname;
+	private String nachname;
 	private int alter;
 	
 	
